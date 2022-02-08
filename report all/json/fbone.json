@@ -1,0 +1,938 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 115672894900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user have to enter FaceBook login page",
+            "match": {
+              "location": "codingForFB.user_have_to_enter_FaceBook_login_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-02-08T17:40:32.501Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1423500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hookers1.c()"
+            }
+          },
+          {
+            "result": {
+              "duration": 163100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hookers1.b()"
+            }
+          },
+          {
+            "result": {
+              "duration": 382700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hookers1.a()"
+            }
+          }
+        ],
+        "line": 7,
+        "name": "",
+        "description": "          first one",
+        "id": "to-validate-login-page;",
+        "after": [
+          {
+            "result": {
+              "duration": 245300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hookers1.cc()"
+            }
+          },
+          {
+            "result": {
+              "duration": 205700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hookers1.bb()"
+            }
+          },
+          {
+            "result": {
+              "duration": 202000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hookers1.aa()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 6778100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "press login",
+            "match": {
+              "location": "codingForFB.press_login()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 145980700,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "get currentURL",
+            "match": {
+              "location": "codingForFB.get_currentURL()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@people"
+          },
+          {
+            "name": "@people1"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 37253242600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user have to enter FaceBook login page",
+            "match": {
+              "location": "codingForFB.user_have_to_enter_FaceBook_login_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-02-08T17:42:28.726Z",
+        "before": [
+          {
+            "result": {
+              "duration": 265400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hookers1.c()"
+            }
+          },
+          {
+            "result": {
+              "duration": 126200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hookers1.b()"
+            }
+          },
+          {
+            "result": {
+              "duration": 122400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hookers1.a()"
+            }
+          }
+        ],
+        "line": 14,
+        "name": "",
+        "description": "         second one",
+        "id": "to-validate-login-page;",
+        "after": [
+          {
+            "result": {
+              "duration": 105700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hookers1.cc()"
+            }
+          },
+          {
+            "result": {
+              "duration": 96800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hookers1.bb()"
+            }
+          },
+          {
+            "result": {
+              "duration": 92200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hookers1.aa()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2253496800,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "have to max",
+            "match": {
+              "location": "codingForFB.have_to_max()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1219800,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "press login",
+            "match": {
+              "location": "codingForFB.press_login()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 16008400,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "get currentURL",
+            "match": {
+              "location": "codingForFB.get_currentURL()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@people"
+          },
+          {
+            "name": "@people2"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 32156425500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user have to enter FaceBook login page",
+            "match": {
+              "location": "codingForFB.user_have_to_enter_FaceBook_login_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-02-08T17:43:08.261Z",
+        "before": [
+          {
+            "result": {
+              "duration": 888600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hookers1.c()"
+            }
+          },
+          {
+            "result": {
+              "duration": 151200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hookers1.b()"
+            }
+          },
+          {
+            "result": {
+              "duration": 170400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hookers1.a()"
+            }
+          }
+        ],
+        "line": 36,
+        "name": "",
+        "description": "        validate user by more users",
+        "id": "to-validate-login-page;;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 122900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hookers1.cc()"
+            }
+          },
+          {
+            "result": {
+              "duration": 82300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hookers1.bb()"
+            }
+          },
+          {
+            "result": {
+              "duration": 126000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hookers1.aa()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 24181198700,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "user have to enter FaceBook login page",
+            "match": {
+              "location": "codingForFB.user_have_to_enter_FaceBook_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5351093400,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "valid user invalid pass \"mugu@4321\" and \"12345\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"mugu@4321\"",
+                  "offset": 24
+                },
+                {
+                  "val": "\"12345\"",
+                  "offset": 40
+                }
+              ],
+              "location": "codingForFB.valid_user_invalid_pass_and(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 627495700,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "have to max",
+            "match": {
+              "location": "codingForFB.have_to_max()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1025700,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "press login",
+            "match": {
+              "location": "codingForFB.press_login()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 11900243100,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "get currentURL",
+            "match": {
+              "location": "codingForFB.get_currentURL()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@people"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 31102786500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user have to enter FaceBook login page",
+            "match": {
+              "location": "codingForFB.user_have_to_enter_FaceBook_login_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-02-08T17:44:22.503Z",
+        "before": [
+          {
+            "result": {
+              "duration": 162800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hookers1.c()"
+            }
+          },
+          {
+            "result": {
+              "duration": 125800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hookers1.b()"
+            }
+          },
+          {
+            "result": {
+              "duration": 95000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hookers1.a()"
+            }
+          }
+        ],
+        "line": 37,
+        "name": "",
+        "description": "        validate user by more users",
+        "id": "to-validate-login-page;;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 240200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hookers1.cc()"
+            }
+          },
+          {
+            "result": {
+              "duration": 151500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hookers1.bb()"
+            }
+          },
+          {
+            "result": {
+              "duration": 158800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hookers1.aa()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 51685795600,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "user have to enter FaceBook login page",
+            "match": {
+              "location": "codingForFB.user_have_to_enter_FaceBook_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 13423307400,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "valid user invalid pass \"mu@7654\" and \"87654\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"mu@7654\"",
+                  "offset": 24
+                },
+                {
+                  "val": "\"87654\"",
+                  "offset": 38
+                }
+              ],
+              "location": "codingForFB.valid_user_invalid_pass_and(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1508071400,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "have to max",
+            "match": {
+              "location": "codingForFB.have_to_max()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1998300,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "press login",
+            "match": {
+              "location": "codingForFB.press_login()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1338919100,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "get currentURL",
+            "match": {
+              "location": "codingForFB.get_currentURL()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@people"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 91532484800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user have to enter FaceBook login page",
+            "match": {
+              "location": "codingForFB.user_have_to_enter_FaceBook_login_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-02-08T17:46:01.578Z",
+        "before": [
+          {
+            "result": {
+              "duration": 274700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hookers1.c()"
+            }
+          },
+          {
+            "result": {
+              "duration": 153300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hookers1.b()"
+            }
+          },
+          {
+            "result": {
+              "duration": 141500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hookers1.a()"
+            }
+          }
+        ],
+        "line": 38,
+        "name": "",
+        "description": "        validate user by more users",
+        "id": "to-validate-login-page;;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 559000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hookers1.cc()"
+            }
+          },
+          {
+            "result": {
+              "duration": 174300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hookers1.bb()"
+            }
+          },
+          {
+            "result": {
+              "duration": 147600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hookers1.aa()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 89149365800,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "user have to enter FaceBook login page",
+            "match": {
+              "location": "codingForFB.user_have_to_enter_FaceBook_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2995376700,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "valid user invalid pass \"kuku@654\" and \"765\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"kuku@654\"",
+                  "offset": 24
+                },
+                {
+                  "val": "\"765\"",
+                  "offset": 39
+                }
+              ],
+              "location": "codingForFB.valid_user_invalid_pass_and(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 37548253800,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "have to max",
+            "match": {
+              "location": "codingForFB.have_to_max()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1296700,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "press login",
+            "match": {
+              "location": "codingForFB.press_login()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 98422800,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "get currentURL",
+            "match": {
+              "location": "codingForFB.get_currentURL()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@people"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 42871153800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user have to enter FaceBook login page",
+            "match": {
+              "location": "codingForFB.user_have_to_enter_FaceBook_login_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-02-08T17:49:43.054Z",
+        "before": [
+          {
+            "result": {
+              "duration": 276400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hookers1.c()"
+            }
+          },
+          {
+            "result": {
+              "duration": 129100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hookers1.b()"
+            }
+          },
+          {
+            "result": {
+              "duration": 126000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hookers1.a()"
+            }
+          }
+        ],
+        "line": 39,
+        "name": "",
+        "description": "        validate user by more users",
+        "id": "to-validate-login-page;;;5",
+        "after": [
+          {
+            "result": {
+              "duration": 83660000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hookers1.cc()"
+            }
+          },
+          {
+            "result": {
+              "duration": 184100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hookers1.bb()"
+            }
+          },
+          {
+            "result": {
+              "duration": 144400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hookers1.aa()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 109699965900,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "user have to enter FaceBook login page",
+            "match": {
+              "location": "codingForFB.user_have_to_enter_FaceBook_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 11422256300,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "valid user invalid pass \"er@5432345\" and \"0998\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"er@5432345\"",
+                  "offset": 24
+                },
+                {
+                  "val": "\"0998\"",
+                  "offset": 41
+                }
+              ],
+              "location": "codingForFB.valid_user_invalid_pass_and(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 49102441500,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "have to max",
+            "match": {
+              "location": "codingForFB.have_to_max()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 154119300,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "press login",
+            "match": {
+              "location": "codingForFB.press_login()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1962878900,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "get currentURL",
+            "match": {
+              "location": "codingForFB.get_currentURL()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@people"
+          }
+        ]
+      }
+    ],
+    "name": "to validate login page",
+    "description": "",
+    "id": "to-validate-login-page",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/featureFile/fbscrnario.feature",
+    "tags": [
+      {
+        "name": "@people",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

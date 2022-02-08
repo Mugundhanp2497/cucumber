@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="6" time="766.45053">
+    <testcase classname="to validate login page" name="_2" time="116.16185">
+        <system-out><![CDATA[Given user have to enter FaceBook login page................................passed
+Then press login............................................................passed
+And get currentURL..........................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="to validate login page" name="_3" time="39.532454">
+        <system-out><![CDATA[Given user have to enter FaceBook login page................................passed
+And have to max.............................................................passed
+Then press login............................................................passed
+And get currentURL..........................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="to validate login page" name="_4" time="74.240593">
+        <system-out><![CDATA[Given user have to enter FaceBook login page................................passed
+Given user have to enter FaceBook login page................................passed
+When valid user invalid pass "mugu@4321" and "12345"........................passed
+And have to max.............................................................passed
+Then press login............................................................passed
+And get currentURL..........................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="to validate login page" name="_5" time="99.072628">
+        <system-out><![CDATA[Given user have to enter FaceBook login page................................passed
+Given user have to enter FaceBook login page................................passed
+When valid user invalid pass "mu@7654" and "87654"..........................passed
+And have to max.............................................................passed
+Then press login............................................................passed
+And get currentURL..........................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="to validate login page" name="_6" time="221.402534">
+        <system-out><![CDATA[Given user have to enter FaceBook login page................................passed
+Given user have to enter FaceBook login page................................passed
+When valid user invalid pass "kuku@654" and "765"...........................passed
+And have to max.............................................................passed
+Then press login............................................................passed
+And get currentURL..........................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="to validate login page" name="_7" time="216.040471">
+        <system-out><![CDATA[Given user have to enter FaceBook login page................................passed
+Given user have to enter FaceBook login page................................passed
+When valid user invalid pass "er@5432345" and "0998"........................passed
+And have to max.............................................................passed
+Then press login............................................................passed
+And get currentURL..........................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
